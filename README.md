@@ -1,6 +1,6 @@
 site_creator_apps
 these are precompiled version of the site creator program
-the source code can be found here https://github.com/rwspicer/site_creator
+ the source code can be found here https://github.com/rwspicer/site_creator
 ============
  Copyright (C) 2014  Rawser Spicer -- University of Alaska Fairbanks
 
